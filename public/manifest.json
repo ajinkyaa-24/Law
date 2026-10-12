@@ -1,0 +1,27 @@
+{
+  "short_name": "NyayaChambers",
+  "name": "Nyaya Chambers — Legal Intelligence & Chambers Portal",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/pwa-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0e17",
+  "theme_color": "#c5a059",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}
